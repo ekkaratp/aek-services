@@ -10,7 +10,7 @@ public class AppUpdateInfo {
 
 	@XmlElement(name = "version")
 	public String getVesion() {
-		return "1.1";
+		return "1.2";
 	}
 	
 	@XmlElement(name = "url")	
